@@ -6,9 +6,9 @@ export default function Home() {
     <div>
       <Landing />;
       <MainPage />;
-      
+
   </div> 
   )
-  
+
 
 }
